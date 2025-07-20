@@ -25,3 +25,19 @@
     position: relative;
     top: -70px;
 }
+
+.Canvas {
+    position: relative;
+    width: 100%;
+    height: 1000px;
+    top: 32px;
+    background-color: #101010;
+    resize: vertical;
+    overflow: auto;
+}
+
+.TextLine {
+    color: white;
+    position: relative;
+    padding-left: 32px;
+}
